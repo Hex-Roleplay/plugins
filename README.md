@@ -1,6 +1,8 @@
 # Hex Roleplay Public Plugins
 Here you can find all of the plugins that I have decided to release to the public, made by Hex. Hopefully you may find these useful!
 
+Feel free to DM me on Discord at Ice Bear#2034 if you have any questions or need help.
+
 # Plugin List
 ## Local Event
 Pretty simple plugin, it adds in a new command /LocalEvent that is the same as the event command but instead of being global it only broadcasts within yelling distance. The colour of this is also yellow, rather than orange.
